@@ -1,0 +1,7 @@
+Java Launcher: /Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/bin/java
+Arguments: '--inJar, /Users/eso/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.19.4-45.0.43/forge-1.19.4-45.0.43-injected.jar, --outJar, /Users/eso/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.19.4-45.0.43_mapped_official_1.19.4/forge-1.19.4-45.0.43_mapped_official_1.19.4.jar, --logFile, accesstransform.log, --atFile, /Users/eso/Projects/cosmic.rocks/ItsAlonPlayzMod/ItsAlonPlayzMod/build/_atJar_4/parent_at.cfg'
+Classpath:
+ - /Users/eso/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/accesstransformers/8.0.7/accesstransformers-8.0.7-fatjar.jar
+Working directory: /Users/eso/Projects/cosmic.rocks/ItsAlonPlayzMod/ItsAlonPlayzMod/build/_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================
